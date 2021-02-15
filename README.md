@@ -1,4 +1,5 @@
-![alt text](https://img.shields.io/discord/657533624052219905?color=%23000000&label=The%20Ministry&style=for-the-badge)
+![GitHub all releases](https://img.shields.io/github/downloads/blazethewolf/TreeSpace/total?style=for-the-badge)
+
 # TreeSpace
 A Simple Funny Joke Mod for VRChat That Loads an Asset Bundle to Put an Image of a Tree On The Screen.
 
